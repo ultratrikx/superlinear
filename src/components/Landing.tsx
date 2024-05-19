@@ -22,13 +22,12 @@ const LandingPage = () => {
 
   return (
     <div className="w-full flex flex-col items-start gap-4">
-      <div className="text-[40px]">Mintbase Simple Marketplace Example</div>
+      <div className="text-[40px]">VENDO Vendor Platform</div>
       <div>
         <p>
           View all user transations. Automatically deploy smart contracts to sent out rewards.
         </p>
         <p>Powered by NEAR.</p>
-        <p>View user purchases below!</p>
         <div className="mt-4 flex">
           <a
             target="_blank"
@@ -36,7 +35,7 @@ const LandingPage = () => {
             href="https://mintbase.xyz/leaderboard"
           >
             <MbButton
-              label="See Leaderboard"
+              label="View Transactions"
               size={ESize.MEDIUM}
               state={EState.ACTIVE}
             />
