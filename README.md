@@ -1,4 +1,3 @@
-# keypom-docs-examples
-Scripts referenced in the documentation tutorials
-
+# based off of keypom-docs-examples
+can be found at
 https://docs.keypom.xyz/
