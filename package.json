@@ -1,5 +1,5 @@
 {
-  "name": "Mintbase-Templates-Marketplace",
+  "name": "Vendo Business Dashboard",
   "version": "0.1.0",
   "keywords": [
     "templates",
@@ -13,7 +13,7 @@
   ],
   "repository": "https://github.com/mintbase/templates.git",
   "homepage": "https;//templates.mintbase.xyz/marketplace",
-  "author": "Mintbase Team <eng@mintbase.xyz>",
+  "author": "Vendo",
   "private": true,
   "scripts": {
     "dev": "next dev",
