@@ -2,11 +2,11 @@ import LandingPage from "@/components/Landing";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Mintbase Simple Marketplace Example",
-  description: "Simple Marketplace",
-  openGraph: {
-    images: ['https://i.imgur.com/FjcUss9.png']
-  }
+  title: "VENDO Vendor Dashboard",
+  description: "VENDO Dashboard",
+  // openGraph: {
+  //   images: ['https://ibb.co/XbL4rtK']
+  // }
 };
 
 export default function Home() {

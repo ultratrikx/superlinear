@@ -14,6 +14,7 @@ We are building a coupon and loyalty rewards app based on the NEAR blockchain fo
 - Arjun Gupta - 1ardgupta@gmail.com
 - Gurteg Rekhi - gurtegrekhi@gmail.com
 - Rohanth Marem - rohanth.marem@gmail.com
+- Prithvi Singh
 
 ## Project Walkthrough
 

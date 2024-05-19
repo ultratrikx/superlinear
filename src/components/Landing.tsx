@@ -25,11 +25,10 @@ const LandingPage = () => {
       <div className="text-[40px]">Mintbase Simple Marketplace Example</div>
       <div>
         <p>
-          1. Make sure to change the env NEXT_PUBLIC_AFFILIATE_ACCOUNT to your
-          own NEAR account
+          View all user transations. Automatically deploy smart contracts to sent out rewards.
         </p>
-        <p>2. On purchase, see your account pop up on the leaderboard</p>
-        <p>3. Check your wallet balance to see funds go up!</p>
+        <p>Powered by NEAR.</p>
+        <p>View user purchases below!</p>
         <div className="mt-4 flex">
           <a
             target="_blank"

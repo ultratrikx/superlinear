@@ -8,7 +8,7 @@ const Header = () => {
 
   const buttonLabel = isConnected
     ? `Sign Out ${activeAccountId}`
-    : " Connect NEAR Wallet";
+    : " Connect User NEAR Wallet";
 
   const buttonAction = isConnected ? disconnect : connect;
 

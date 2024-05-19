@@ -104,7 +104,7 @@ function AvailableNftComponent({
               title: "Price",
               lowerLeftText: `~ ${(
                 Number(nearPrice) * Number(currentPrice)
-              ).toFixed(2)} USD`,
+              ).toFixed(2)} CAD`,
             }}
           />
           <div className="mt-4">
@@ -120,7 +120,7 @@ function AvailableNftComponent({
         </div>
         <div className="text-center">
           <MbButton
-            label="Buy with NEAR"
+            label="Send to User"
             state={EState.ACTIVE}
             onClick={handleBuy}
           />
@@ -128,7 +128,7 @@ function AvailableNftComponent({
       </div>
     </div>
   ) : (
-    <MbButton onClick={connect} label="Connect NEAR Wallet" />
+    <MbButton onClick={connect} label="Connect User Wallet" />
   );
 }
 
