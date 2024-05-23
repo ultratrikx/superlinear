@@ -1,4 +1,4 @@
-# HawkHacks 2024: VENDO -Coupon and Loyalty Rewards App
+# HawkHacks 2024: VENDO - Coupon and Loyalty Rewards App
 
 We are building a coupon and loyalty rewards app based on the NEAR blockchain for the HawkHacks hackathon 2024. Our aim is to simplify rewards storage for customers and empower small to medium local businesses with more control over their rewards programs.
 
